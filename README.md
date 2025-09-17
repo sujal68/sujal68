@@ -1,26 +1,54 @@
-# Namaste, main [Sujal Kidecha] 👋
+# 👋 Hey there! I'm Sujal Kidecha  
+
+<img src="https://i.imgur.com/OB2hO7f.gif" width="100%" />
+
+## 🚀 About Me  
+- 💻 Frontend Developer (HTML, CSS, JS, React, C, C++)  
+- 🎓 BCA Student | Learning Backend & GSAP animations  
+- 🎯 Currently working on: Portfolio + E-commerce Mini Project  
+- ⚡ Fun fact: Code + Cricket + Gym = My life  
 
 ---
 
-### About Me
-I'm a passionate developer who loves to build cool stuff and solve problems.
-Currently, I'm exploring new technologies and working on personal projects.
+## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,github,vscode" />
+</p>
 
 ---
 
-### My Skills
-| **Languages** | **Frameworks** | **Tools** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" height="160px"/>
+</p>
 
 ---
 
-### My GitHub Stats
-[![sujal68](https://github-readme-stats.vercel.app/api?username=sujal68&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin-username])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter-username])
+## 🤣 Meme Section  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/6X6p9pD.gif" width="400" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://instagram.com/YOUR-INSTA"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+⭐ From [sujal68](https://github.com/sujal68)
