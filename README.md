@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sujal Kidecha  
 
-<img src="https://i.imgur.com/OB2hO7f.gif" width="100%" />
+<img src="banner.png" width="100%" />
 
 ## 🚀 About Me  
 - 💻 Frontend Developer (HTML, CSS, JS, React, C, C++)  
