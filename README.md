@@ -14,8 +14,7 @@
 ---
 
 ## 🚀 About Me
-
-```javascript
+javascript
 const sujalKidecha = {
     name: "Sujal Kidecha",
     role: "Frontend Developer & UI Animator",
@@ -40,91 +39,65 @@ const sujalKidecha = {
     workingOn: "Building pixel-perfect, animated web experiences",
     funFact: "I can spend hours perfecting a single animation 😄"
 };
-```
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend & Design
+🛠️ Tech Stack
+Frontend & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,figma&perline=8" />
 </p>
-
-### Animation Libraries
+Animation Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
   <img src="https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge&logo=locomotive&logoColor=white" alt="Locomotive"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
-
-### Programming & DSA
+Programming & DSA
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode&perline=8" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
----
-
-## 💼 Featured Projects
-
+💼 Featured Projects
 <div align="center">
-
-### 🎵 Spotify Clone
+🎵 Spotify Clone
 A pixel-perfect music streaming interface with smooth animations and interactive UI
 <br/>
-**Tech:** HTML, CSS, JavaScript, React.js
+Tech: HTML, CSS, JavaScript, React.js
 <br/><br/>
-
-### 🛒 Add to Cart System
+🛒 Add to Cart System
 Dynamic e-commerce cart functionality with seamless user experience
 <br/>
-**Tech:** React.js, JavaScript, CSS
+Tech: React.js, JavaScript, CSS
 <br/><br/>
-
-### 🥽 Vision Pro Clone
+🥽 Vision Pro Clone
 Apple Vision Pro inspired landing page with stunning scroll animations
 <br/>
-**Tech:** React.js, GSAP, Locomotive Scroll
+Tech: React.js, GSAP, Locomotive Scroll
 <br/><br/>
-
-### ✨ Animation Websites
+✨ Animation Websites
 Multiple websites featuring smooth scroll effects, parallax, and micro-interactions
 <br/>
-**Tech:** GSAP, Locomotive Scroll, JavaScript, React.js
-
+Tech: GSAP, Locomotive Scroll, JavaScript, React.js
 </div>
 
----
-
-## 🎨 What I Do Best
-
-```css
-.sujal-kidecha {
+🎨 What I Do Best
+css.sujal-kidecha {
     animation: smoothScroll infinite;
     transition: all 0.3s ease-in-out;
     will-change: transform;
@@ -135,34 +108,25 @@ Multiple websites featuring smooth scroll effects, parallax, and micro-interacti
     50% { animation-skills: maximum; }
     100% { pixel-perfection: achieved; }
 }
-```
 
-- 🎭 **Smooth Animations** - GSAP, Framer Motion, CSS Animations
-- 📱 **Responsive Design** - Mobile-first, pixel-perfect layouts
-- ⚡ **Performance** - Optimized, fast-loading websites
-- 🎯 **User Experience** - Intuitive and engaging interfaces
-- 🧩 **Problem Solving** - Strong DSA fundamentals with C/C++
+🎭 Smooth Animations - GSAP, Framer Motion, CSS Animations
+📱 Responsive Design - Mobile-first, pixel-perfect layouts
+⚡ Performance - Optimized, fast-loading websites
+🎯 User Experience - Intuitive and engaging interfaces
+🧩 Problem Solving - Strong DSA fundamentals with C/C++
 
----
 
-## 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
-
-## 📈 Coding Activity
-
+📈 Coding Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
 </div>
 
----
-
-## 📫 Connect With Me
-
+📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sujal-kidecha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -184,22 +148,17 @@ Multiple websites featuring smooth scroll effects, parallax, and micro-interacti
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
----
-
 <p align="center">
   <i>✨ "First, solve the problem. Then, write the code. Finally, add the animations!" 🎨</i>
 </p>
-
 <p align="center">
   Made with ❤️, ☕ and lots of <code>gsap.to()</code>
 </p>
+```
