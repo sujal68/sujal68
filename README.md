@@ -15,7 +15,6 @@
 
 ## 🚀 About Me
 
-```javascript
 const sujalKidecha = {
     name: "Sujal Kidecha",
     role: "Frontend Developer & UI Animator",
