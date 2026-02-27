@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujal Kidecha  
 
-### 🚀 Frontend Developer | 🎨 UI Enthusiast | 💻 Lifelong Learner  
+### 🚀 Fullstack Developer | 🎨 UI Enthusiast | 💻 Lifelong Learner  
 
 Welcome to my GitHub profile!  
 I love building **modern, responsive, and animated web applications** that combine clean UI with smooth UX.  
